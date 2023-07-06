@@ -5,3 +5,4 @@
 
 # win11
 找到win11.zip包，以管理员身份运行VB脚步即可
+详情查看：http://t.csdn.cn/RknDZ
